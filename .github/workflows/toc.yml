@@ -1,4 +1,5 @@
 # This is a basic workflow to help you get started with Actions
+# Action comes from comment at https://stackoverflow.com/questions/9721944/automatic-toc-in-github-flavoured-markdown
 
 name: TOC Generator
 
