@@ -1,5 +1,7 @@
 # Convert Rows in SQL Table into Columns
 
+Reference: (https://stackoverflow.com/questions/14651511/trying-to-flatten-rows-into-columns)
+
 ## Sample Entries in Table
 |Id|RecId|FieldName|FieldValue|
 |-|-----|---------|---------|
